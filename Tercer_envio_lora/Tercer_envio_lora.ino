@@ -8,7 +8,7 @@
 // Inicializar los sensores y LoRa
 Adafruit_BME280 bme;
 Adafruit_MPU6050 mpu;
-SoftwareSerial mySerial(11, 10); // RX, TX
+SoftwareSerial mySerial(10, 11); // RX, TX
 LoRa_E32 e32ttl(&mySerial, 5, 7, 8); // M0, M1, AUX
 
 void setup() {
