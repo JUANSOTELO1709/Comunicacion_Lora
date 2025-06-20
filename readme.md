@@ -5,7 +5,8 @@
 LORA E32
 
 
-# Proyecto: Lectura de configuración del módulo LoRa E32 con Arduino
+# Proyecto: PRUEBA_LORA
+##Lectura de configuración del módulo LoRa E32 con Arduino
 
 Este proyecto tiene como objetivo inicializar el módulo **LoRa E32** y leer su configuración mediante un Arduino y la librería `LoRa_E32`. Se utiliza la comunicación serial por software (SoftwareSerial) para establecer el enlace entre el Arduino y el módulo LoRa.
 
