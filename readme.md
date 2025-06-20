@@ -58,15 +58,29 @@ Este programa realiza lo siguiente:
 
 ## 📌 Ejemplo de salida esperada
    -Iniciando prueba de conexión...
+   
    -Módulo E32 detectado correctamente.
+   
    -Obteniendo configuración...
-Configuración del módulo E32:
-Dirección HIGH (ADDH): 0
-Dirección LOW (ADDL): 1
-Canal (CHAN): 23
-Velocidad del aire (Air Data Rate): 2
-Velocidad UART (UART Baud Rate): 3
-Paridad UART (UART Parity): 0
-Corrección de errores (FEC): 1
-Modo de transmisión fija (Fixed Transmission): 0
-Configuración obtenida exitosamente.
+
+-Configuración del módulo E32:
+
+
+-Dirección HIGH (ADDH): 0
+
+
+-Dirección LOW (ADDL): 1
+
+-Canal (CHAN): 23
+
+-Velocidad del aire (Air Data Rate): 2
+
+-Velocidad UART (UART Baud Rate): 3
+
+-Paridad UART (UART Parity): 0
+
+-Corrección de errores (FEC): 1
+
+-Modo de transmisión fija (Fixed Transmission): 0
+
+-Configuración obtenida exitosamente.
